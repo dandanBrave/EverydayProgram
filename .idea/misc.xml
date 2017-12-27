@@ -9,6 +9,26 @@
         <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter1/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter10/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter11/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter12/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter13/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter2/Client/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter2/Server/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter2/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter4/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter5/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter6/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter7/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter8/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/chapter9/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/pom.xml" />
+        <option value="E:/master/netty/netty-in-action-2.0-SNAPSHOT/netty-in-action-2.0-SNAPSHOT/utils/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
