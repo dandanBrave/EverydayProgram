@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="NettyDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="chapter9" target="1.7" />
       <module name="echo-client" target="1.7" />
       <module name="echo-server" target="1.7" />
+      <module name="NettyDemo" target="1.5" />
       <module name="nia-samples-parent" target="1.5" />
       <module name="utils" target="1.8" />
     </bytecodeTargetLevel>
