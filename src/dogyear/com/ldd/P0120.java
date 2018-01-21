@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Created by Administrator on 2018/1/20.
  * 输入n个整数，输出其中最小的K个。
  */
-public class P1220 {
+public class P0120 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while (sc.hasNext()){
