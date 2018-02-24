@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3e3c47-5f8d-4a86-8c5f-c09503c740cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dogyear/february/com/ldd/P0224.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -101,7 +100,7 @@
       <file leaf-file-name="P0224.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dogyear/february/com/ldd/P0224.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="320">
               <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -243,8 +242,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="77" />
+    <option name="x" value="142" />
+    <option name="y" value="68" />
     <option name="width" value="1310" />
     <option name="height" value="784" />
   </component>
@@ -702,13 +701,6 @@
       <option name="presentableId" value="Default" />
       <updated>1513586214600</updated>
     </task>
-    <task id="LOCAL-00008" summary="five day">
-      <created>1513923566114</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1513923566114</updated>
-    </task>
     <task id="LOCAL-00009" summary="six day">
       <created>1514015323995</created>
       <option name="number" value="00009" />
@@ -1045,11 +1037,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518534621380</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="fifty-six day">
+      <created>1519448404087</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1519448404089</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="77" width="1310" height="784" extended-state="0" />
+    <frame x="142" y="68" width="1310" height="784" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1085,7 +1084,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="twenty-nine day" />
     <MESSAGE value="thirty day" />
     <MESSAGE value="thirty-one day" />
     <MESSAGE value="thirty-two day" />
@@ -1110,7 +1108,8 @@
     <MESSAGE value="fifty-two day" />
     <MESSAGE value="fifty-three day" />
     <MESSAGE value="fifty-four day" />
-    <option name="LAST_COMMIT_MESSAGE" value="fifty-four day" />
+    <MESSAGE value="fifty-six day" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifty-six day" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1498,7 +1497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dogyear/february/com/ldd/P0224.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="320">
           <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
