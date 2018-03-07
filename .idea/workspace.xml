@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3e3c47-5f8d-4a86-8c5f-c09503c740cb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0307.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -228,7 +227,7 @@
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -582,14 +581,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513586214600</updated>
-      <workItem from="1520387818606" duration="2259000" />
-    </task>
-    <task id="LOCAL-00022" summary="twenty-six day">
-      <created>1515840988128</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1515840988128</updated>
+      <workItem from="1520387818606" duration="2384000" />
     </task>
     <task id="LOCAL-00023" summary="twenty-seven day">
       <created>1515899697602</created>
@@ -927,15 +919,21 @@
       <option name="project" value="LOCAL" />
       <updated>1520299851361</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="sixty-seven day">
+      <created>1520390106164</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1520390106166</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2259000" />
+    <option name="totallyTimeSpent" value="2384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="-8" width="1386" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -975,7 +973,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="forty day" />
     <MESSAGE value="forty-one day" />
     <MESSAGE value="forty-two day" />
     <MESSAGE value="forty-three day" />
@@ -1000,7 +997,8 @@
     <MESSAGE value="sixty-four day" />
     <MESSAGE value="sixty-five day" />
     <MESSAGE value="sixty-six day" />
-    <option name="LAST_COMMIT_MESSAGE" value="sixty-six day" />
+    <MESSAGE value="sixty-seven day" />
+    <option name="LAST_COMMIT_MESSAGE" value="sixty-seven day" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
