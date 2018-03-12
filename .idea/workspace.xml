@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3e3c47-5f8d-4a86-8c5f-c09503c740cb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0311.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0312.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,12 +58,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P0311.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P0311.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dogyear/March/com/ldd/P0311.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <caret line="4" column="6" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P0312.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dogyear/March/com/ldd/P0312.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-88">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dogyear/com/ldd/P0114.java" />
         <option value="$PROJECT_DIR$/src/dogyear/com/ldd/P0115.java" />
         <option value="$PROJECT_DIR$/src/dogyear/com/ldd/P0116.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -146,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0309.java" />
         <option value="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0310.java" />
         <option value="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0311.java" />
+        <option value="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0312.java" />
       </list>
     </option>
   </component>
@@ -209,9 +221,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="92" />
-    <option name="y" value="73" />
-    <option name="width" value="1386" />
-    <option name="height" value="912" />
+    <option name="y" value="87" />
+    <option name="width" value="1301" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -229,6 +241,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,10 +271,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -626,14 +638,8 @@
       <workItem from="1520472441717" duration="1671000" />
       <workItem from="1520563174762" duration="1673000" />
       <workItem from="1520650236069" duration="1278000" />
-      <workItem from="1520734380887" duration="328000" />
-    </task>
-    <task id="LOCAL-00028" summary="thirty-two day">
-      <created>1516329251958</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1516329251958</updated>
+      <workItem from="1520734380887" duration="354000" />
+      <workItem from="1520818327924" duration="256000" />
     </task>
     <task id="LOCAL-00029" summary="thirty-three day">
       <created>1516422841045</created>
@@ -971,11 +977,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520651493572</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="seventy-one day">
+      <created>1520734722900</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1520734722900</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7373000" />
+    <option name="totallyTimeSpent" value="7655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="-8" width="1386" height="916" extended-state="6" />
@@ -983,14 +996,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30779055" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2967359" sideWeight="0.5030912" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822478" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23910336" sideWeight="0.4969088" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23910336" sideWeight="0.4969088" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1008,6 +1020,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30779055" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1019,7 +1032,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="forty-four day" />
     <MESSAGE value="forty-five day" />
     <MESSAGE value="forty-six day" />
     <MESSAGE value="forty-seven day" />
@@ -1044,7 +1056,8 @@
     <MESSAGE value="sixty-eight day" />
     <MESSAGE value="sixty-nine day" />
     <MESSAGE value="seventy day" />
-    <option name="LAST_COMMIT_MESSAGE" value="seventy day" />
+    <MESSAGE value="seventy-one day" />
+    <option name="LAST_COMMIT_MESSAGE" value="seventy-one day" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1077,13 +1090,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dogyear/january/com/ldd/P0118.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dogyear/january/com/ldd/P0117.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1433,8 +1439,18 @@
     <entry file="file://$PROJECT_DIR$/src/dogyear/March/com/ldd/P0311.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <caret line="4" column="6" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dogyear/March/com/ldd/P0312.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
