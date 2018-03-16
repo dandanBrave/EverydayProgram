@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3e3c47-5f8d-4a86-8c5f-c09503c740cb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dogyear/March/com/ldd/P0316.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,8 +50,8 @@
       <file leaf-file-name="P0316.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dogyear/March/com/ldd/P0316.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -197,7 +196,7 @@
       </PATH>
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="71" />
     <option name="y" value="1" />
     <option name="width" value="1368" />
@@ -621,14 +620,7 @@
       <workItem from="1520905953207" duration="2090000" />
       <workItem from="1520992039870" duration="784000" />
       <workItem from="1521076757929" duration="1996000" />
-      <workItem from="1521163583721" duration="930000" />
-    </task>
-    <task id="LOCAL-00033" summary="thirty-four day">
-      <created>1516627059137</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1516627059137</updated>
+      <workItem from="1521163583721" duration="1556000" />
     </task>
     <task id="LOCAL-00034" summary="thirty-five day">
       <created>1516676795697</created>
@@ -966,14 +958,21 @@
       <option name="project" value="LOCAL" />
       <updated>1521078741019</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="seventy-six day">
+      <created>1521164748666</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1521164748666</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13484000" />
+    <option name="totallyTimeSpent" value="14110000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="-8" width="1386" height="916" extended-state="6" />
+    <frame x="62" y="-8" width="1386" height="916" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -985,7 +984,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2967359" sideWeight="0.5030912" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822478" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19871795" sideWeight="0.4969088" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19871795" sideWeight="0.4969088" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1014,7 +1013,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="forty-nine day" />
     <MESSAGE value="fifty-one day" />
     <MESSAGE value="fifty-two day" />
     <MESSAGE value="fifty-three day" />
@@ -1039,7 +1037,8 @@
     <MESSAGE value="seventy-three day" />
     <MESSAGE value="seventy-four day" />
     <MESSAGE value="seventy-five day" />
-    <option name="LAST_COMMIT_MESSAGE" value="seventy-five day" />
+    <MESSAGE value="seventy-six day" />
+    <option name="LAST_COMMIT_MESSAGE" value="seventy-six day" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1439,8 +1438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dogyear/March/com/ldd/P0316.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
